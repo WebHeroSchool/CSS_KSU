@@ -1,6 +1,7 @@
 
 * {
 
+    font-family: 'Source Sans Pro', sans-serif;
     height: 80px;
 
 }
@@ -26,6 +27,7 @@ div {
 
 h1, h2, h3 {
     text-align: center;
+    font-family: 'Montserrat', sans-serif;
 }
 
 
